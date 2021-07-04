@@ -17,6 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo
 
+https://user-images.githubusercontent.com/55175085/124378612-fc0d4080-dccf-11eb-817d-9d65bd560e58.mp4
 
-<video src="https://github.com/iamjamesfrancis/xylophone/blob/master/assets/demo/xylophone.mp4">
-  </video>
