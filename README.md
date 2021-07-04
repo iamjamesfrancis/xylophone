@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo
 
-<video  width="320" height="240" autoplay>
-<source src="assets/demo/xylophone.mp4" type="video/mp4">
-</video>
+
+<video src="https://github.com/iamjamesfrancis/xylophone/blob/master/assets/demo/xylophone.mp4">
+  </video>
